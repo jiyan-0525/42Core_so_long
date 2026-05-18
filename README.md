@@ -4,7 +4,7 @@ Small 2D game project for 42 (Core Curriculum). The player must collect all coll
 
 <img width="434" height="189" alt="image" src="https://github.com/user-attachments/assets/80c7bc63-5a50-4458-808b-a4130d1d2c06" />
 
-<img width="1097" height="219" alt="image" src="https://github.com/user-attachments/assets/ddb1477e-7ea4-497c-83e5-83b6f52bc160" />
+#<img width="1097" height="219" alt="image" src="https://github.com/user-attachments/assets/ddb1477e-7ea4-497c-83e5-83b6f52bc160" />
 
 ## Requirements
 
