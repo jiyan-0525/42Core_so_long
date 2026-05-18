@@ -59,3 +59,6 @@ The program must reject maps that do not follow the rules, including (non-exhaus
 - The map contains invalid characters.
 - The map is not solvable (player cannot reach all collectibles and the exit).
 
+- <img width="1097" height="219" alt="image" src="https://github.com/user-attachments/assets/24fc7161-64d2-4b3e-b8e4-31370f88653a" />
+
+
