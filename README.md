@@ -26,11 +26,6 @@ make fclean
 make re
 
 ## Usage
-
-```bash
-./so_long <map.ber>
-```
-
 Example:
 ```bash
 ./so_long maps/map.ber
