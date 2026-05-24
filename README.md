@@ -4,6 +4,8 @@ Small 2D game project for 42 (Core Curriculum).
 
 The player must collect all collectibles and then reach the exit.
 
+<img width="810" height="282" alt="image" src="https://github.com/user-attachments/assets/651e7e2c-c45c-46c5-9d7d-e48bfed948d0" />
+
 <img width="434" height="189" alt="image" src="https://github.com/user-attachments/assets/80c7bc63-5a50-4458-808b-a4130d1d2c06" />
 
 ## Requirements
