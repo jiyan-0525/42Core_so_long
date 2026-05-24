@@ -6,8 +6,6 @@ The player must collect all collectibles and then reach the exit.
 
 <img width="810" height="282" alt="image" src="https://github.com/user-attachments/assets/651e7e2c-c45c-46c5-9d7d-e48bfed948d0" />
 
-<img width="434" height="189" alt="image" src="https://github.com/user-attachments/assets/80c7bc63-5a50-4458-808b-a4130d1d2c06" />
-
 ## Requirements
 
 - Language: C
@@ -30,7 +28,7 @@ make re
 ## Usage
 Example:
 ```bash
-./so_long maps/map.ber
+./so_long maps/map.ber or map_large.ber
 ```
 
 ## Controls
