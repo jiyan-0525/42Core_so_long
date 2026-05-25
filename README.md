@@ -28,7 +28,7 @@ make re
 ## Usage
 Example:
 ```bash
-./so_long maps/map_large.ber
+./so_long maps/map.ber
 ```
 
 ## Controls
